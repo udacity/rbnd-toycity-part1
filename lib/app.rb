@@ -21,7 +21,7 @@ puts "|_|                                       "
   # Calculate and print the total number of purchases
   # Calcalate and print the total amount of sales
   # Calculate and print the average price the toy sold for
-  # Calculate and print the average discount based off the average sales price
+  # Calculate and print the average % discount based off the average sales price
 
 
 	puts " _                         _     "
