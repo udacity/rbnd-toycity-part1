@@ -34,6 +34,6 @@ puts "|_|                                       "
 
 # For each brand in the data set:
   # Print the name of the brand
-  # Count and print the number of the brand's toys we stock
+  # Summate and print the total number of the brand's toys we have in stock
   # Calculate and print the average price of the brand's toys
   # Calculate and print the total revenue of all the brand's toy sales combined
