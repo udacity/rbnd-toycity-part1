@@ -38,10 +38,10 @@ For instructions on how to do this, [Click Here](https://docs.google.com/documen
 When you feel ready to submit, use the blue 'Submit Project' button!
 ​
 
-The result of running your report generator code will look something like this (Please see rationale for each calculation:
+The result of running your report generator code will look something like this. Please see rationale for each calculation:
 ​
 
-## Product Output
+### Product Output
 ​
 * Name => The name of the product
 * Retail price => The retail price as listed for that product
@@ -55,7 +55,7 @@ The result of running your report generator code will look something like this (
 * Average Discount Percentage => (Average Discount / Retail Price) * 100
 ​
 
-## Brand Output:
+### Brand Output:
 ​
 * Brand Name => Name of Brand
 * Number of Products => Number of products for that brand
