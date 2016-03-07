@@ -46,7 +46,7 @@ The result of running your report generator code will look something like this. 
 * Name => The name of the product
 * Retail price => The retail price as listed for that product
 * Total purchases => The total number of purchases for that project
-* Total Sales => The sum of all "purchases" "price"
+* Total Sales => The sum of all individual items sold. This is the sum of the purchase price for each product. In the case of "LEGO Iron Man vs. Ultron": We sold two products. One was sold for $17.99 and the other for 18.99. The result is $36.98
 * Average Price => Total Sales / number of purchases
 * Average Discount => Retail Price - Average Price
 
@@ -58,7 +58,7 @@ The result of running your report generator code will look something like this. 
 ### Brand Output:
 ​
 * Brand Name => Name of Brand
-* Number of Products => Number of products for that brand
+* Number of Products => Number of Products that are in stock for that product. In the case of Lego: Lego has 55 products in stock. 55 "LEGO Iron Man vs. Ultron" and 0 "LEGO Firehouse Headquarters"
 * Average Product Price => The "full-price" of each product associated with this brand summed up / the number of products for that brand
 * Total Sales => Each one of the "purchases" associated with this brand summed
 ​
@@ -114,13 +114,13 @@ Average Discount Percentage: 5.0%
 ​
 LEGO
 ********************
-Number of Products: 2
+Number of Products: 55
 Average Product Price: $111.49
 Total Sales: $416.96
 ​
 NANO BLOCKS
 ********************
-Number of Products: 1
+Number of Products: 12
 Average Product Price: 49.99
 Total Sales: $68.98
 ```
