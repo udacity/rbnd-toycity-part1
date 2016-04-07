@@ -29,7 +29,7 @@ Before submitting your project for evaluation, we recommend that you check that 
 * Your program runs without any errors
 * You are proud of your project and its output
 * You completed your project according to the instructions
-* You checked your project against the [rubric](https://docs.google.com/document/d/1-hvjfP7cLJa6mThuHfz-XASK2rYjMaeKP1B1m5rwlFs/pub "rubric")
+* You checked your project against the [rubric](https://review.udacity.com/#!/projects/5604025048/rubric "rubric")
 * Clarify what it is to have a dynamic report generator
 * Create a zip file with your project
 For instructions on how to do this, [Click Here](https://docs.google.com/document/d/1jPCDXBuD4xV8PsGLa5K9Fpn_9lSCTrXeOWcUKQGnATU/pub "Instructions on creating a zip file") .
