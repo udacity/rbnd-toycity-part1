@@ -24,13 +24,13 @@ puts "|_|                                       "
   # Calculate and print the average discount (% or $) based off the average sales price
 
 
-	puts " _                         _     "
-	puts "| |                       | |    "
-	puts "| |__  _ __ __ _ _ __   __| |___ "
-	puts "| '_ \\| '__/ _` | '_ \\ / _` / __|"
-	puts "| |_) | | | (_| | | | | (_| \\__ \\"
-	puts "|_.__/|_|  \\__,_|_| |_|\\__,_|___/"
-	puts
+puts " _                         _     "
+puts "| |                       | |    "
+puts "| |__  _ __ __ _ _ __   __| |___ "
+puts "| '_ \\| '__/ _` | '_ \\ / _` / __|"
+puts "| |_) | | | (_| | | | | (_| \\__ \\"
+puts "|_.__/|_|  \\__,_|_| |_|\\__,_|___/"
+puts ""
 
 # For each brand in the data set:
   # Print the name of the brand
