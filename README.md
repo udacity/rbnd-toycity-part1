@@ -121,6 +121,6 @@ Total Sales: $416.96
 NANO BLOCKS
 ********************
 Number of Products: 12
-Average Product Price: 49.99
+Average Product Price: $49.99
 Total Sales: $68.98
 ```
